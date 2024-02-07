@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 4px 4px 4px 4px ;
+    padding: 4px 4px 4px;
+    background-color: #f0f0f0;
+    font-size: 18px ;
+    text-align: center;
+}
+.our-service{
+    padding: 5px 5px 5px 5px;
+    color: #333;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+.service {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.portfolio-img {
+    
+    margin-bottom: 10px;
+
+}
+
+.review {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    margin: 20px auto;
+    width: 100%;
+}
+
